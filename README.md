@@ -1,4 +1,4 @@
-# house_predictor
+# house_predictor 🏠
 
 How It Works (Step by Step)
 
